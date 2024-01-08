@@ -34,6 +34,8 @@ This project is licensed under the MIT License
 ## Acknowledgements
 
 The dataset for training the network is sourced from Kaggle.
+
 The network architecture is inspired from Pathan, R.K., Biswas, M., Yasmin, S. et al. Sign language recognition using the fusion of image and hand landmarks through multi-headed convolutional neural network. Sci Rep 13, 16975 (2023). https://doi.org/10.1038/s41598-023-43852-x. The application, however, uses a more simplistic version of the model for initial roll-out purposes. Despite this, it has been able to achieve a 94.95% training accuracy and very impressive testing results. Full model to be released in future commits.
+
 The spell checker is powered by pyspellchecker.
    
